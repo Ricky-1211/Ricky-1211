@@ -1,4 +1,3 @@
-
 <div align="center">
   
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hi, I'm **Plaban Mohanty**
@@ -51,7 +50,7 @@
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20in%20motion/Person%20in%20Lotus%20Position.png" alt="Meditation" width="30" /> About Me
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20in%20motion/Person%20in%20Lotus%20Position.png"  width="30" /> About Me
 
 <table>
 <tr>
@@ -59,10 +58,10 @@
 
 ```yaml
 🎯 Current Role: Freelance Full-Stack Developer & AI Engineer
-🏆 Achievement: Smart India Hackathon 2023 Runner-Up
+🏆 Achievement: Smart India Hackathon 2025 Runner-Up
 💼 Experience: 2+ Years in Software Development
 🌍 Location: India | Working Remotely
-🎓 Education: B.Tech in Computer Science
+🎓 Education: Pursuing MCA
 💡 Passion: Building products that solve real problems
 
 🔭 Currently Building:
@@ -101,14 +100,13 @@
   
 ```ascii
 ╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   🏆 SMART INDIA HACKATHON 2023 - NATIONAL RUNNER-UP 🏆     ║
-║                                                              ║
-║   Problem Statement: AI-Powered Healthcare Accessibility    ║
-║   Team: Code Crusaders                                       ║
-║   Ministry: Ministry of Health & Family Welfare              ║
-║   Prize Pool: ₹1,00,000                                     ║
-║                                                              ║
+║                                                                ║
+║   🏆 SMART INDIA HACKATHON 2025 - NATIONAL RUNNER-UP 🏆       ║
+║                                                                ║
+║   Problem Statement: AI-Powered Healthcare Accessibility       ║
+║   Team: IT WIZARDS                                             ║
+║   Ministry: Ministry of Health & Family Welfare                ║
+║                                                                ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -137,17 +135,6 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP"/>
 </p>
 
-```javascript
-const frontend = {
-  frameworks: ['React 18', 'Next.js 14', 'Vue 3', 'Nuxt 3'],
-  styling: ['TailwindCSS', 'SCSS', 'Styled Components', 'CSS Modules'],
-  animations: ['Framer Motion', 'GSAP', 'Three.js', 'Rive'],
-  stateManagement: ['Redux Toolkit', 'Zustand', 'Pinia', 'Jotai'],
-  testing: ['Jest', 'React Testing Library', 'Cypress', 'Playwright'],
-  tools: ['Webpack', 'Vite', 'ESLint', 'Prettier', 'Husky']
-};
-```
-
 </div>
 
 <br/>
@@ -166,17 +153,6 @@ const frontend = {
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
 </p>
-
-```python
-backend_stack = {
-    'runtime': ['Node.js', 'Python 3.11', 'PHP 8.2'],
-    'frameworks': ['Express', 'NestJS', 'Django', 'Laravel', 'FastAPI'],
-    'databases': ['MongoDB', 'PostgreSQL', 'MySQL', 'Redis', 'Firebase'],
-    'architecture': ['Microservices', 'REST APIs', 'GraphQL', 'WebSockets'],
-    'message_queues': ['RabbitMQ', 'Apache Kafka', 'BullMQ'],
-    'testing': ['Jest', 'PyTest', 'PHPUnit', 'Supertest']
-}
-```
 
 </div>
 
@@ -197,30 +173,6 @@ backend_stack = {
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
 </p>
 
-```yaml
-DevOps_Pipeline:
-  Containerization:
-    - Docker
-    - Docker Compose
-    - BuildKit
-  Orchestration:
-    - Kubernetes
-    - Docker Swarm
-    - Helm Charts
-  CI/CD:
-    - GitHub Actions
-    - Jenkins Pipelines
-    - Azure DevOps
-  Monitoring:
-    - Prometheus
-    - Grafana
-    - ELK Stack
-  Infrastructure:
-    - Terraform
-    - Ansible
-    - Pulumi
-```
-
 </div>
 
 <br/>
@@ -239,17 +191,6 @@ DevOps_Pipeline:
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 </p>
-
-```python
-ai_capabilities = {
-    'Deep Learning': ['CNNs', 'RNNs', 'Transformers', 'GANs'],
-    'NLP': ['BERT', 'GPT Integration', 'Sentiment Analysis', 'Text Generation'],
-    'Computer Vision': ['Object Detection', 'Image Segmentation', 'Face Recognition'],
-    'MLOps': ['Model Deployment', 'A/B Testing', 'Feature Stores'],
-    'Tools': ['Jupyter', 'MLflow', 'Weights & Biases', 'DVC'],
-    'Projects': ['Healthcare AI', 'Smart Assistant', 'Document Analysis']
-}
-```
 
 </div>
 
@@ -401,10 +342,6 @@ Tech Stack:
 project = {
     "name": "AI Student Assistant",
     "type": "AI/ML Application",
-    "status": "Live ✅",
-    "users": "500+ Active Users",
-    "rating": "4.8/5 ⭐",
-    
     "features": [
         "📚 Intelligent Study Plan Generator",
         "📝 Automated Note Summarization",
@@ -415,7 +352,6 @@ project = {
         "🌐 Multi-Language Support",
         "🔊 Text-to-Speech Integration"
     ],
-    
     "tech": {
         "frontend": "React, Next.js, TailwindCSS",
         "backend": "Python, FastAPI, Node.js",
@@ -453,7 +389,6 @@ project = {
 Project: CloudSync
 ━━━━━━━━━━━━━━━━━━━━━━━━━
 Type: Developer Tool
-Downloads: 2,000+
 Status: Open Source 🌟
 
 Features:
@@ -578,28 +513,6 @@ Stack: Go, React, Docker, Kubernetes
 
 <br/>
 
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=ricky-1211&theme=algolia&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## 📊 Contribution Metrics
-
-<img width="90%" src="https://github-readme-stats.vercel.app/api/wakatime?username=ricky_1211&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&layout=compact" />
-
-</div>
-
-<br/>
-
----
-
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="30" /> Certifications
 
 <br/>
@@ -638,120 +551,6 @@ Kubernetes Admin<br/>
 </div>
 
 <br/>
-
----
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="30" /> Latest Blog Posts
-
-<br/>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 📝 From Dev.to
-
-<img src="https://dev-to-readme.vercel.app/api/card?username=plaban_dev&theme=tokyonight" width="100%">
-
-</td>
-<td width="50%">
-
-### 🎥 Latest YouTube
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Building_AI_App_with_Next.js-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<br/><br/>
-<a href="#">
-  <img src="https://img.shields.io/badge/System_Design_Interview_Prep-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<br/><br/>
-<a href="#">
-  <img src="https://img.shields.io/badge/Cloud_Architecture_Patterns-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
----
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="Music" width="30" /> Spotify Playing
-
-<br/>
-
-<div align="center">
-
-[![Spotify](https://novatorem-plaban.vercel.app/api/spotify?background_color=0d1117&border_color=6c63ff)](https://open.spotify.com/user/plaban_mohanty)
-
-</div>
-
-<br/>
-
----
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe" width="30" /> Visitor Map
-
-<br/>
-
-<div align="center">
-
-```mermaid
-graph LR
-    subgraph 🌍 Global Visitors
-        A[🇮🇳 India - 45%]
-        B[🇺🇸 USA - 20%]
-        C[🇬🇧 UK - 10%]
-        D[🇩🇪 Germany - 8%]
-        E[🇨🇦 Canada - 7%]
-        F[🌏 Others - 10%]
-    end
-    
-    A --- B
-    B --- C
-    C --- D
-    D --- E
-    E --- F
-```
-
-</div>
-
-<br/>
-
----
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="30" /> Open Source Contributions
-
-<br/>
-
-<div align="center">
-
-```yaml
-Pull Requests: 50+
-Issues Resolved: 30+
-Repositories Contributed: 15+
-Stars Earned: 500+
-Forks: 100+
-
-Recent Contributions:
-  ✓ React Documentation Fixes
-  ✓ Node.js Bug Fixes
-  ✓ Docker Image Optimization
-  ✓ Python Library Enhancement
-  ✓ Next.js Examples Update
-```
-
-</div>
-
-<br/>
-
----
 
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Check%20Mark%20Button.png" alt="Check" width="30" /> What I Offer
 
@@ -811,8 +610,6 @@ Recent Contributions:
 
 <br/>
 
----
-
 # <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="30" /> Let's Collaborate
 
 <br/>
@@ -840,51 +637,12 @@ Recent Contributions:
 
 <br/>
 
----
-
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Exclamation%20Mark.png" alt="Exclamation" width="30" /> Daily Dev Quote
-
-> **"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."**
-> 
-> — Martin Fowler
-
-<br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-<br/>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Red%20Heart.png" alt="Heart" width="30" /> Profile 3D Contribution
-
-<img src="./profile-3d-contrib/profile-night-green.svg" width="100%" />
-
-<br/>
-
----
-
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="30" /> Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ricky-1211/ricky-1211/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ricky-1211/ricky-1211/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ricky-1211/ricky-1211/output/github-contribution-grid-snake.svg">
-</picture>
-
-<br/>
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,21,30&height=200&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontSize=40&fontAlignY=65&animation=fadeIn&fontColor=white" width="100%"/>
 
 <div align="center">
-  <sub>Last Edited on: 02/02/2025</sub>
+  <sub>Last Edited on: 13/07/2026</sub>
   <br/>
   <sub>Made with ❤️ by Plaban Mohanty</sub>
 </div>
 
 </div>
-```
